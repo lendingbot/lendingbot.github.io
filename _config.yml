@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Poloniex Lending Bot
+description: Blog for the Poloniexlendingbot.com service.
+meta_description: "Blog for the Poloniexlendingbot.com service."
 
 markdown: kramdown
 highlighter: rouge
@@ -8,9 +8,9 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-75870022-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'blog.poloniexlendingbot.com'
+author:         'Ben'
