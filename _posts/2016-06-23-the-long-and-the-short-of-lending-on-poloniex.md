@@ -3,6 +3,7 @@ layout: post
 title:  "The Long and the Short of Lending on Poloniex"
 date:   2016-06-23 10:18:00
 categories: Poloniex Margin Lending Trading Cryptocurrency
+permalink: /margin-lending-basics
 ---
 Lending Bitcoin on Poloniex currently earns 0.02% per day.  Compounded annually that’s over 7%.  That’s a pretty impressive yield for a deflationary and appreciating asset like Bitcoin...but...what gives?  Who are you lending to?  Why are they willing to pay you 7% A.P.Y.?  And why would the mostly anonymous borrower ever pay you back?  This post will address these questions as more, as we dive into the fast and frequent world of lending to margin traders on Poloniex.
 
