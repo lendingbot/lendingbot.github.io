@@ -1,6 +1,6 @@
-name: Poloniex Lending Bot
-description: Blog for the Poloniexlendingbot.com service.
-meta_description: "Blog for the Poloniexlendingbot.com service."
+name: The Lending Blog
+description: Thoughts on peer-to-peer margin lending by
+meta_description: "Thoughts on peer-to-peer margin lending by Poloniexlendingbot.com"
 
 markdown: kramdown
 highlighter: rouge
@@ -13,4 +13,4 @@ gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'blog.poloniexlendingbot.com'
-author:         'Ben'
+author:         'Poloniexlendingbot.com'

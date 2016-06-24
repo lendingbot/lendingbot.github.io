@@ -4,16 +4,14 @@ title:  "The Long and the Short of Lending on Poloniex"
 date:   2016-06-23 10:18:00
 categories: Poloniex Margin Lending Trading Cryptocurrency
 ---
-
 Lending Bitcoin on Poloniex currently earns 0.02% per day.  Compounded annually that’s over 7%.  That’s a pretty impressive yield for a deflationary and appreciating asset like Bitcoin...but...what gives?  Who are you lending to?  Why are they willing to pay you 7% A.P.Y.?  And why would the mostly anonymous borrower ever pay you back?  This post will address these questions as more, as we dive into the fast and frequent world of lending to margin traders on Poloniex.
 
 ### Overview
-
 At its core, lending on Poloniex is peer-to-peer Margin Lending.  When you lend to margin traders on Poloniex, you’re lending to people who are attempting to enhance their trading and investing returns by using their existing Poloniex account balances as collateral to borrow even more cryptocurrency.
 
 In traditional financial markets, margin lending is mostly monopolized by the brokers who create the trading platforms.  In the cryptocurrency space, platforms like Poloniex allow peer-to-peer margin lending, where margin loans don’t originate from the platform owners, but from other users of the platform.
 
-What makes this development exciting, is that we can make money on cryptocurrency exchanges from something other than trading.  Lending to margin traders can be a lower risk (though still not risk free) way to earn a significant return on otherwise idle funds.
+What makes this development exciting is that we can make money on cryptocurrency exchanges from something other than trading.  Lending to margin traders can be a lower risk (though still not risk free) way to earn a significant return on otherwise idle funds.
 
 ### Mechanics
 
