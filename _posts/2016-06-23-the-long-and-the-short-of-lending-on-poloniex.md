@@ -19,7 +19,7 @@ What makes this development exciting is that we can make money on cryptocurrency
 The mechanics of lending on Poloniex are straightforward.  Lenders deposit funds to their Poloniex account in the same way that traders do.  They transfer their balances to a lending sub-account and create loan offers for margin traders using the Poloniex loan order book.
 <hr/>
 ![A picture of the Poloniex ETH lending order book]({{ site.baseurl }}assets/images/eth-lending-example.png)
-<sub>The Poloniex ETH lending order book.  The loan offers with the lowest rates will be filled first.  Placing an offer at 0.045% (that's about 20% APY) will put us first in line.  Our Poloniexlendingbot.com service auotmates this part of the process.</sub>
+<sub>The Poloniex ETH lending order book.  The loan offers with the lowest rates will be filled first.  Placing an offer at 0.045% (that's about 20% APY) will put us first in line.  Our Poloniexlendingbot.com service automates this part of the process.</sub>
 <hr/>
 
 Loan offers for a given currency are organized in the order book based on how favorable they are to the borrower.  Loan offers with lower rates and longer maximum durations get priority over loan offers with higher rates and shorter maximum durations.
